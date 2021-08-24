@@ -1,0 +1,147 @@
+{
+  "D:\\dev\\Vendor Tracker\\force-app": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1629778109069,
+    "changeTime": 1629778109069,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1629778109069,
+    "changeTime": 1629778109069,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1629778109124,
+    "changeTime": 1629778109124,
+    "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\applications": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\applications",
+    "isDirectory": true,
+    "modifiedTime": 1629778109069,
+    "changeTime": 1629778109069,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\aura": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\aura",
+    "isDirectory": true,
+    "modifiedTime": 1629778109126,
+    "changeTime": 1629778109126,
+    "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\classes": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1629778109070,
+    "changeTime": 1629778109070,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\contentassets": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\contentassets",
+    "isDirectory": true,
+    "modifiedTime": 1629778109070,
+    "changeTime": 1629778109070,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\flexipages": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\flexipages",
+    "isDirectory": true,
+    "modifiedTime": 1629778109070,
+    "changeTime": 1629778109070,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\layouts": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1629778109071,
+    "changeTime": 1629778109071,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\lwc": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1629778123998,
+    "changeTime": 1629778123998,
+    "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\objects": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1629778109071,
+    "changeTime": 1629778109071,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\permissionsets": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\permissionsets",
+    "isDirectory": true,
+    "modifiedTime": 1629778109071,
+    "changeTime": 1629778109071,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\staticresources": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\staticresources",
+    "isDirectory": true,
+    "modifiedTime": 1629778109071,
+    "changeTime": 1629778109071,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\tabs": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1629778109072,
+    "changeTime": 1629778109072,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\triggers": {
+    "sourcePath": "D:\\dev\\Vendor Tracker\\force-app\\main\\default\\triggers",
+    "isDirectory": true,
+    "modifiedTime": 1629778109072,
+    "changeTime": 1629778109072,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "D:\\dev\\Vendor Tracker": {
+    "sourcePath": "D:\\dev\\Vendor Tracker",
+    "isDirectory": true,
+    "modifiedTime": 1629778121182,
+    "changeTime": 1629778121182,
+    "contentHash": "becf48cfb8971d8432dc58f281a57aaa2b65cfc1",
+    "state": "n",
+    "isWorkspace": true
+  }
+}

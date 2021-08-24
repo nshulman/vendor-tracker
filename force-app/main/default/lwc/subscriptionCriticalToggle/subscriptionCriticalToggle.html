@@ -1,0 +1,37 @@
+<template>
+    <lightning-card title="Critical Vendor and Subscription Machine">
+        <p class="slds-var-p-around_medium">{message}</p>
+        
+        <template if:false={subscription}>
+            Could not load subscription
+        </template>
+
+        <template if:true={subscription}>
+            <lightning-button-stateful
+                class="slds-var-p-around_small"
+                label-when-off="Subscription Normal"
+                label-when-on="Subscription Critical"
+                label-when-hover="Change Status"
+                icon-name-when-off="utility:add"
+                icon-name-when-on="utility:locker_service_console"
+                icon-name-when-hover="utility:close"
+                selected={subscriptionCritical}
+                onclick={handleSubscriptionClick}>
+            </lightning-button-stateful>
+
+            <lightning-button-stateful
+                class="slds-var-p-around_small"
+                label-when-off="Vendor Normal"
+                label-when-on="Vendor Critical"
+                label-when-hover="Change Status"
+                icon-name-when-off="utility:add"
+                icon-name-when-on="utility:locker_service_console"
+                icon-name-when-hover="utility:close"
+                selected={vendorCritical}
+                onclick={handleVendorClick}>
+            </lightning-button-stateful>
+        </template>
+    </lightning-card>
+    
+
+</template>
